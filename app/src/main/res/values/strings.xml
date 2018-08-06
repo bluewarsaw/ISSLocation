@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ISS Location</string>
+    <string name="token">pk.eyJ1IjoiYmx1ZXdhcnNhdyIsImEiOiJjamp5dWp4OWw4ZGc1M3dvM2FsdjlhNjEzIn0.DgzFPbNhoLyOQIZRi0kYeg</string>
+    <string name="tap_on_map_instruction">Click the map to see ISS Location!</string>
+</resources>
